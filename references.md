@@ -1,0 +1,10 @@
+- Model Cards for Model Reporting (Mitchell et al., 2019): https://arxiv.org/abs/1810.03993
+- Datasheets for Datasets (Gebru et al., 2018): https://arxiv.org/abs/1803.09010
+- IBM AI FactSheets: https://www.ibm.com/docs/en/software-hub/5.1.x?topic=services-ai-factsheets
+- Google Data Cards Playbook: https://sites.research.google/datacardsplaybook
+- Hugging Face Model Cards: https://huggingface.co/docs/hub/main/en/model-cards
+- NIST AI Risk Management Framework: https://www.nist.gov/itl/ai-risk-management-framework
+- EU AI Act, Article 11 (Technical Documentation): https://artificialintelligenceact.eu/article/11/
+- LessWrong — We Need a Science of Evals: https://www.lesswrong.com/posts/fnc6Sgt3CGCdFmmgX/we-need-a-science-of-evals
+- LessWrong — The Evals Gap: https://www.lesswrong.com/posts/gJJEjJpKiddoYGZKk/the-evals-gap
+- LessWrong — Recent Progress on the Science of Evaluations: https://www.lesswrong.com/posts/m2qMj7ovncbqKtzNt/recent-progress-on-the-science-of-evaluations
